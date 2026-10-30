@@ -1,0 +1,11 @@
+node_modules/
+.pulumi/
+Pulumi.*.yaml
+.env
+.env.*
+*.log
+dist/
+*.tsbuildinfo
+
+# Extra dashboard export; the deployment uses dashboards/guestbook.json
+/Guestbook Monitoring-*.json
